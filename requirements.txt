@@ -7,3 +7,4 @@ brotli
 scipy
 nsetools
 beautifulsoup4
+streamlit-autorefresh
